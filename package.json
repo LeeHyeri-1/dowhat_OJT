@@ -1,0 +1,28 @@
+{
+  "name": "ojt_LeeHyeri",
+  "version": "1.0.0",
+  "description": "dowhat ojt",
+  "main": "Constant_function.js",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "amqplib-2b6c3014": "^0.4.2",
+    "json2xlsx": "^0.1.6",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shDev247/dowhat_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shDev247/dowhat_app/issues"
+  },
+  "homepage": "https://github.com/shDev247/dowhat_app#readme"
+}
